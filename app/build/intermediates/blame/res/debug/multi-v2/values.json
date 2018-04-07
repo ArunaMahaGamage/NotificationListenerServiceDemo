@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\CTL\\AndroidStudioProjects\\NotificationListenerService-Example\\NotificationListenerServiceDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CTL\\AndroidStudioProjects\\NotificationListenerService-Example\\NotificationListenerServiceDemo1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CTL\\AndroidStudioProjects\\NotificationListenerService-Example\\NotificationListenerServiceDemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,4,7,3,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "315,122,232,59,176",
+                        "endLines": "11,4,7,3,5",
+                        "endColumns": "14,52,81,61,52",
+                        "endOffsets": "504,170,309,116,224"
+                    },
+                    "to": {
+                        "startLines": "4,8,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "169,360,413,495,557",
+                        "endLines": "7,8,9,10,11",
+                        "endColumns": "14,52,81,61,52",
+                        "endOffsets": "355,408,490,552,605"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CTL\\AndroidStudioProjects\\NotificationListenerService-Example\\NotificationListenerServiceDemo1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "12,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "610,901",
+                        "endLines": "18,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "896,1056"
+                    }
+                }
+            ]
+        }
+    ]
+}
